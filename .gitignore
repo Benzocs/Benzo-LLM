@@ -1,0 +1,7 @@
+venv_gpu/
+venv_rag/
+*.gguf
+rag_database.json
+rag_database.tmp
+*.log
+*.bak
